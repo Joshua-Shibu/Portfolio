@@ -1,0 +1,273 @@
+.div-1{
+    height: 640px;
+    background-color: black;
+}
+
+.Encored{
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 620px;
+}
+
+.h1{
+    color: white;
+    margin-left: 530px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.h2{
+    color: rgb(243, 116, 138);
+    margin-left: 595px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.h3{
+    font-style: italic;
+    color: white;
+    font-size: 300%;;
+    margin-left: 490px;
+    margin-top: 0px;
+}
+
+.h4{
+    color: rgb(221, 43, 72);
+    margin-left: 630px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.h5{
+    margin-left: 100px;
+    margin-left: 510px;
+    font-size: xx-large;
+}
+
+.h6{
+    margin-top: 150px;
+    margin-left: 250px;
+    color: rgb(221, 43, 72);
+}
+
+.h7{
+    margin-left: 850px;
+    margin-top: -60px;
+    color: rgb(221, 43, 72);
+}
+
+.h8,.h9,.h10{
+    margin-left: 250px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.h11{
+    margin-left: 850px;
+    margin-top: -200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+.h12{
+    margin-left: 851px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+.h13,.h14{
+    margin-left: 851px;
+}
+
+.h15{
+    margin-left: 620px;
+    margin-top: 30px;
+    color: rgb(221, 43, 72);
+    margin-bottom: 0px;
+}
+
+.h16{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+.h17{
+    margin-left: 600px;
+    padding-top: 40px;
+    color: rgb(221, 43, 72);
+    display: block;
+}
+
+.h18{
+    margin-left: 540px;
+    margin-top: 40px;
+    color: rgb(221, 43, 72);
+}
+
+.h19{
+    color: rgb(221, 43, 72);
+    margin-left: 540px;
+}
+
+.h20{
+    margin-left: 600px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.h21{
+    margin-left: 592px;
+    margin-top: 8px;
+}
+
+.a1,.a2,.a3{
+    margin-left: 250px;
+}
+
+a:active{
+    color: rgb(221, 43, 72);
+}
+
+
+
+.div-2{
+    height: 870px;
+    background-color: antiquewhite;
+}
+
+p{
+    width: 600px;
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial,;
+    margin-left: 470px;
+}
+
+.profile{
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin-top: -250px;
+    margin-left: 250px;
+    border-radius: 660px;
+    border-style: solid;
+    border-width: 4px;
+}
+
+.html{
+    display: block;
+    height: 26px;
+    width: 26px;
+    margin-left: 930px;
+    margin-top: -26px;
+}
+
+.css{
+    display: block;
+    height: 26px;
+    width: 26px;
+    margin-left: 900px;
+    margin-top: -26px;
+}
+
+.js{
+    display: block;
+    height: 26px;
+    width: 26px;
+    margin-left: 970px;
+    margin-top: -45px;
+}
+
+.py{
+    display: block;
+    height: 26px;
+    width: 26px;
+    margin-left: 935px;
+    margin-top: -45px;
+}
+
+.cv{
+    display: block;
+    margin-top: 110px;
+    margin-left: 590px;
+    height: 40px;
+    width: 170px;
+    background-color: rgb(53, 47, 47);
+}
+
+.cv-a{
+    color: white;
+}
+
+.div-3{
+    height: 600px;
+}
+
+.tt-img{
+    height: 200px;
+    width: 400px;
+    margin-left: 230px;
+    margin-bottom: 60px;
+}
+.tt-img:hover{
+    border-style: solid;
+}
+
+
+.sr-img{
+    height: 200px;
+    width: 400px;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+.sr-img:hover{
+    border-style: solid;
+}
+
+.tl-img{
+    height: 200px;
+    width: 400px;
+    margin-left: 470px;
+    margin-bottom: 0px;
+}
+.tl-img:hover{
+    border-style: solid;
+}
+
+.div-4{
+    background-color: rgb(197, 194, 194);
+    height: 340px;
+}
+
+
+.github{
+    height: 30px;
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 570px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+.linkedin{
+    height: 30px;
+    width: 70px;
+    padding-top: 0px;
+    margin-left: -20px;
+    margin-right: 0px;
+}
+
+.twitter{
+
+    height: 30px;
+    width: 60px;
+    margin-left: 69px;
+    margin-left: -10px;
+}
+
+span{
+    color: black;
+}
+.span-1{
+    color: rgb(221, 43, 72);
+}
